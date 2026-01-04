@@ -1,7 +1,6 @@
 # Titanic Survival Analysis
 
-## 📊 Project Overview
-
+## Project Overview
 This project analyzes the survival patterns of passengers aboard the RMS Titanic, which sank on April 15, 1912, after colliding with an iceberg. Using a dataset of 891 passenger records, this analysis explores various factors that influenced survival rates, including:
 
 - Gender and age demographics
@@ -10,8 +9,7 @@ This project analyzes the survival patterns of passengers aboard the RMS Titanic
 - Port of embarkation
 - Fare paid for the journey
 
-## 🎯 Objectives
-
+## Objectives
 The primary goals of this analysis were to:
 
 1. Identify key factors that influenced passenger survival
@@ -20,8 +18,7 @@ The primary goals of this analysis were to:
 4. Investigate how family structure affected survival outcomes
 5. Uncover hidden patterns beyond the commonly cited evacuation rules
 
-## 🔍 Key Findings
-
+## Key Findings
 ### Gender Distribution
 - The ship carried **577 male passengers (64.8%)** and **314 female passengers (35.2%)**
 - Women had a significantly higher survival rate than men
@@ -111,23 +108,19 @@ The Titanic disaster demonstrates that survival was influenced by a complex inte
 
 The analysis reveals that while the "women and children first" protocol was followed to some extent, **social class, family dynamics, and individual choices significantly influenced who survived**. The tragedy highlights issues of social inequality and the complexity of human behavior in crisis situations.
 
-## 📚 Dataset Information
-
+## Dataset Information
 - **Source**: Titanic passenger manifest
 - **Records**: 891 passengers
 - **Period**: 2015-2017 (for a similar City/Resort Hotel booking analysis referenced)
 - **Features**: PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked
 
-## 🤝 Contributing
-
+## Contributing
 This project was developed as an academic exercise in data analysis using Python. Feedback and suggestions are welcome!
 
-## 📝 License
-
+## License
 This project is available for educational purposes.
 
-## 👤 Author
-
+## Author
 **dcardosomr-cmd**
 - GitHub: [@dcardosomr-cmd](https://github.com/dcardosomr-cmd)
 
